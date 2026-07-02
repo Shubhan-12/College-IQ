@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271656877658",
+    "project_id": "collegeiq-2a329",
+    "storage_bucket": "collegeiq-2a329.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271656877658:android:e8e222e98d92a4a738e263",
+        "android_client_info": {
+          "package_name": "com.example.collegeiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271656877658-jv1cm0qrj7ddvp4nrmsg1aecj5qq3co8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeiq",
+            "certificate_hash": "49d04fee08815f73942455c33f82dcfc656cc76d"
+          }
+        },
+        {
+          "client_id": "271656877658-4p7cjmf5taeutjs04qqrh0g9dprfrup3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBQO82clTxYqkK3PXTfjCvf0F_AP-87Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271656877658-4p7cjmf5taeutjs04qqrh0g9dprfrup3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
